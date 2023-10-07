@@ -68,41 +68,6 @@
                 android:backgroundTint="#7FFFFFFF"/>
         </LinearLayout>
     </androidx.constraintlayout.widget.ConstraintLayout>
-<!--    <androidx.constraintlayout.widget.ConstraintLayout-->
-<!--        android:layout_width="match_parent"-->
-<!--        android:layout_height="match_parent"-->
-<!--        android:layout_below="@+id/img_container">-->
-<!--        <androidx.constraintlayout.widget.Guideline-->
-<!--            android:id="@+id/guide_v_46"-->
-<!--            android:layout_width="match_parent"-->
-<!--            android:layout_height="match_parent"-->
-<!--            android:orientation="vertical"-->
-<!--            app:layout_constraintGuide_percent="0.46" />-->
-<!--        <androidx.constraintlayout.widget.Guideline-->
-<!--            android:id="@+id/guide_v_54"-->
-<!--            android:layout_width="match_parent"-->
-<!--            android:layout_height="match_parent"-->
-<!--            android:orientation="vertical"-->
-<!--            app:layout_constraintGuide_percent="0.54" />-->
-<!--        <androidx.constraintlayout.widget.Guideline-->
-<!--            android:id="@+id/guide_h_46"-->
-<!--            android:layout_width="match_parent"-->
-<!--            android:layout_height="match_parent"-->
-<!--            android:orientation="horizontal"-->
-<!--            app:layout_constraintGuide_percent="0.46" />-->
-<!--        <androidx.constraintlayout.widget.Guideline-->
-<!--            android:id="@+id/guide_h_54"-->
-<!--            android:layout_width="match_parent"-->
-<!--            android:layout_height="match_parent"-->
-<!--            android:orientation="horizontal"-->
-<!--            app:layout_constraintGuide_percent="0.54" />-->
-<!--        <View-->
-<!--            android:layout_width="wrap_content"-->
-<!--            android:layout_height="wrap_content"-->
-<!--            app:layout_constraintRight_toRightOf="@id/guide_v_46"-->
-<!--            app:layout_constraintBottom_toBottomOf="@id/guide_h_46"/>-->
-<!--    </androidx.constraintlayout.widget.ConstraintLayout>-->
-
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="match_parent"
